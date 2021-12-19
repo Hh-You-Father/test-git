@@ -6,6 +6,10 @@ public class git {
     }
 
     public void test02(){
-        System.out.println("Hello Git2");
+        System.out.println("Test merge");
+    }
+
+    public void test03(){
+        System.out.println("Hello Git3");
     }
 }

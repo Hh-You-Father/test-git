@@ -9,7 +9,7 @@ public class git {
         System.out.println("Test merge");
     }
 
-    public void test03(){
-        System.out.println("Hello Git3");
+    public void test04(){
+        System.out.println("Hello Git4");
     }
 }

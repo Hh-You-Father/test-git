@@ -6,14 +6,11 @@ public class git {
     }
 
     public void test02(){
-        System.out.println("Test merge");
-    }
-
-    public void test04(){
-        System.out.println("Hello Git4");
+        System.out.println("Hello Git2");
     }
 
     public void test05(){
         System.out.println("Hello Git6666");
+        System.out.println("Hello Git7777");
     }
 }

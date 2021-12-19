@@ -12,4 +12,8 @@ public class git {
     public void test04(){
         System.out.println("Hello Git4");
     }
+
+    public void test05(){
+        System.out.println("Hello Git5");
+    }
 }

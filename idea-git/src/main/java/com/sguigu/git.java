@@ -8,4 +8,8 @@ public class git {
     public void test02(){
         System.out.println("Hello Git2");
     }
+
+    public void test05(){
+        System.out.println("Hello Git5");
+    }
 }

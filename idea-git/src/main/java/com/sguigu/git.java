@@ -13,4 +13,8 @@ public class git {
         System.out.println("Hello Git6666");
         System.out.println("Hello Git7777");
     }
+
+    public void test06(){
+        System.out.println("888888888888888888888");
+    }
 }

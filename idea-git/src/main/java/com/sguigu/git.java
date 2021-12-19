@@ -10,6 +10,6 @@ public class git {
     }
 
     public void test05(){
-        System.out.println("Hello Git5");
+        System.out.println("Hello Git7777");
     }
 }
